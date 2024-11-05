@@ -1,0 +1,165 @@
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.AssemblyReference.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfoInputs.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfo.cs
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.CoreCompileInputs.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.exe
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.deps.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.runtimeconfig.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.runtimeconfig.dev.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.Views.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\obj\Debug\netcoreapp3.1\staticwebassets\Movies.StaticWebAssets.Manifest.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\obj\Debug\netcoreapp3.1\staticwebassets\Movies.StaticWebAssets.xml
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\obj\Debug\netcoreapp3.1\scopedcss\bundle\Movies.styles.css
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.RazorTargetAssemblyInfo.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.CopyComplete
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.genruntimeconfig.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Project\top10movies\Movies\Movies\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Project\top10movies\Movies\Movies\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Project\top10movies\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.exe
+C:\Project\top10movies\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.deps.json
+C:\Project\top10movies\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.runtimeconfig.json
+C:\Project\top10movies\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.runtimeconfig.dev.json
+C:\Project\top10movies\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.dll
+C:\Project\top10movies\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.pdb
+C:\Project\top10movies\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.Views.dll
+C:\Project\top10movies\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Project\top10movies\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Project\top10movies\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Project\top10movies\Movies\Movies\bin\Debug\netcoreapp3.1\BL.dll
+C:\Project\top10movies\Movies\Movies\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Project\top10movies\Movies\Movies\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Project\top10movies\Movies\Movies\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Project\top10movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.csprojAssemblyReference.cache
+C:\Project\top10movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfoInputs.cache
+C:\Project\top10movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfo.cs
+C:\Project\top10movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.CoreCompileInputs.cache
+C:\Project\top10movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\top10movies\Movies\Movies\obj\Debug\netcoreapp3.1\staticwebassets\Movies.StaticWebAssets.Manifest.cache
+C:\Project\top10movies\Movies\Movies\obj\Debug\netcoreapp3.1\staticwebassets\Movies.StaticWebAssets.xml
+C:\Project\top10movies\Movies\Movies\obj\Debug\netcoreapp3.1\scopedcss\bundle\Movies.styles.css
+C:\Project\top10movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.RazorTargetAssemblyInfo.cache
+C:\Project\top10movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.CopyComplete
+C:\Project\top10movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.dll
+C:\Project\top10movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.pdb
+C:\Project\top10movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.genruntimeconfig.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.exe
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.deps.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.runtimeconfig.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.runtimeconfig.dev.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.Views.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.AssemblyReference.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfoInputs.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfo.cs
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.CoreCompileInputs.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\obj\Debug\netcoreapp3.1\staticwebassets\Movies.StaticWebAssets.Manifest.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\obj\Debug\netcoreapp3.1\staticwebassets\Movies.StaticWebAssets.xml
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\obj\Debug\netcoreapp3.1\scopedcss\bundle\Movies.styles.css
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.RazorTargetAssemblyInfo.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.CopyComplete
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.genruntimeconfig.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.exe
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.deps.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.runtimeconfig.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.runtimeconfig.dev.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.Views.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.AssemblyReference.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfoInputs.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfo.cs
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.CoreCompileInputs.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\obj\Debug\netcoreapp3.1\staticwebassets\Movies.StaticWebAssets.Manifest.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\obj\Debug\netcoreapp3.1\staticwebassets\Movies.StaticWebAssets.xml
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\obj\Debug\netcoreapp3.1\scopedcss\bundle\Movies.styles.css
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.RazorTargetAssemblyInfo.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.CopyComplete
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.genruntimeconfig.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.exe
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.deps.json
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.runtimeconfig.json
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.runtimeconfig.dev.json
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.pdb
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.Views.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.AssemblyReference.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfoInputs.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfo.cs
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.CoreCompileInputs.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\staticwebassets\Movies.StaticWebAssets.Manifest.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\staticwebassets\Movies.StaticWebAssets.xml
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\scopedcss\bundle\Movies.styles.css
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.RazorTargetAssemblyInfo.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.CopyComplete
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.pdb
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.genruntimeconfig.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

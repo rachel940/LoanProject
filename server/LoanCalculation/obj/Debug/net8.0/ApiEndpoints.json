@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "LoanCalculation.Controllers.LoanController",
+    "Method": "CalculateLoan",
+    "RelativePath": "loanCalculation/Loan/CalculateLoan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Models.LoanRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LoanCalculation.Controllers.LoanController",
+    "Method": "CreateClient",
+    "RelativePath": "loanCalculation/Loan/CreateClient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Models.Client",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

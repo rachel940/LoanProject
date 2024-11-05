@@ -1,0 +1,111 @@
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\BL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\BL\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Project\top10movies\Movies\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Project\top10movies\Movies\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\Project\top10movies\Movies\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Project\top10movies\Movies\BL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Project\top10movies\Movies\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Project\top10movies\Movies\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+C:\Project\top10movies\Movies\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Project\top10movies\Movies\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Project\top10movies\Movies\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Project\top10movies\Movies\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+C:\Project\top10movies\Movies\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Project\top10movies\Movies\BL\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\BL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\BL\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\BL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\copy from git\complete project\Movies\BL\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\BL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\BL\obj\Debug\netcoreapp3.1\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\BL\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Users\cohen\Desktop\CountriesProject\User\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\cohen\Desktop\CountriesProject\User\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\cohen\Desktop\CountriesProject\User\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\cohen\Desktop\CountriesProject\User\BL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\cohen\Desktop\CountriesProject\User\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\cohen\Desktop\CountriesProject\User\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+C:\Users\cohen\Desktop\CountriesProject\User\BL\obj\Debug\netcoreapp3.1\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cohen\Desktop\CountriesProject\User\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\cohen\Desktop\CountriesProject\User\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\cohen\Desktop\CountriesProject\User\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\cohen\Desktop\CountriesProject\User\BL\obj\Debug\netcoreapp3.1\BL.csproj.Up2Date
+C:\Users\cohen\Desktop\CountriesProject\User\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\cohen\Desktop\CountriesProject\User\BL\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Users\cohen\Desktop\CountriesProject\Countries\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+C:\Users\cohen\Desktop\CountriesProject\Countries\BL\obj\Debug\netcoreapp3.1\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cohen\Desktop\CountriesProject\Countries\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\cohen\Desktop\CountriesProject\Countries\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\cohen\Desktop\CountriesProject\Countries\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\cohen\Desktop\CountriesProject\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\cohen\Desktop\CountriesProject\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\cohen\Desktop\CountriesProject\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\cohen\Desktop\CountriesProject\BL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\cohen\Desktop\CountriesProject\BL\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\cohen\Desktop\CountriesProject\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\cohen\Desktop\CountriesProject\BL\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\cohen\Desktop\CountriesProject\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+C:\Users\cohen\Desktop\CountriesProject\BL\obj\Debug\netcoreapp3.1\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cohen\Desktop\CountriesProject\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\cohen\Desktop\CountriesProject\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\cohen\Desktop\CountriesProject\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\cohen\Desktop\CountriesProject\BL\obj\Debug\netcoreapp3.1\BL.sourcelink.json
+C:\Users\cohen\Desktop\CountriesProject\BL\obj\Debug\netcoreapp3.1\BL.csproj.Up2Date
+C:\Users\cohen\Desktop\CountriesProject\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\cohen\Desktop\CountriesProject\BL\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Users\cohen\Desktop\Project\loan-project\server\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\cohen\Desktop\Project\loan-project\server\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\cohen\Desktop\Project\loan-project\server\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\cohen\Desktop\Project\loan-project\server\BL\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\cohen\Desktop\Project\loan-project\server\BL\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\cohen\Desktop\Project\loan-project\server\BL\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\cohen\Desktop\Project\loan-project\server\BL\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\cohen\Desktop\Project\loan-project\server\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+C:\Users\cohen\Desktop\Project\loan-project\server\BL\obj\Debug\netcoreapp3.1\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cohen\Desktop\Project\loan-project\server\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\cohen\Desktop\Project\loan-project\server\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\cohen\Desktop\Project\loan-project\server\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\cohen\Desktop\Project\loan-project\server\BL\obj\Debug\netcoreapp3.1\BL.sourcelink.json
+C:\Users\cohen\Desktop\Project\loan-project\server\BL\obj\Debug\netcoreapp3.1\BL.csproj.Up2Date
+C:\Users\cohen\Desktop\Project\loan-project\server\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\cohen\Desktop\Project\loan-project\server\BL\obj\Debug\netcoreapp3.1\BL.pdb

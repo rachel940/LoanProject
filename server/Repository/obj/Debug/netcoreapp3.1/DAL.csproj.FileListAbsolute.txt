@@ -1,0 +1,85 @@
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Desktop\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Project\top10movies\Movies\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Project\top10movies\Movies\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Project\top10movies\Movies\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Project\top10movies\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Project\top10movies\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Project\top10movies\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Project\top10movies\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Project\top10movies\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Project\top10movies\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\rcohen20\Music\OneDrive - DXC Production\Documents\GitHub\Top10Movies\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\cohen\Desktop\CountriesProject\User\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\cohen\Desktop\CountriesProject\User\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\cohen\Desktop\CountriesProject\User\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\cohen\Desktop\CountriesProject\User\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\cohen\Desktop\CountriesProject\User\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cohen\Desktop\CountriesProject\User\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\cohen\Desktop\CountriesProject\User\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\cohen\Desktop\CountriesProject\User\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\cohen\Desktop\CountriesProject\User\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\cohen\Desktop\CountriesProject\User\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\cohen\Desktop\CountriesProject\Countries\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\cohen\Desktop\CountriesProject\Countries\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\cohen\Desktop\CountriesProject\Countries\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\cohen\Desktop\CountriesProject\Countries\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\cohen\Desktop\CountriesProject\Countries\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cohen\Desktop\CountriesProject\Countries\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\cohen\Desktop\CountriesProject\Countries\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\cohen\Desktop\CountriesProject\Countries\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\cohen\Desktop\CountriesProject\Countries\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\cohen\Desktop\CountriesProject\Countries\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\cohen\Desktop\CountriesProject\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\cohen\Desktop\CountriesProject\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\cohen\Desktop\CountriesProject\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\cohen\Desktop\CountriesProject\DAL\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\cohen\Desktop\CountriesProject\DAL\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\cohen\Desktop\CountriesProject\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\cohen\Desktop\CountriesProject\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cohen\Desktop\CountriesProject\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\cohen\Desktop\CountriesProject\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\cohen\Desktop\CountriesProject\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\cohen\Desktop\CountriesProject\DAL\obj\Debug\netcoreapp3.1\DAL.sourcelink.json
+C:\Users\cohen\Desktop\CountriesProject\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.Up2Date
+C:\Users\cohen\Desktop\CountriesProject\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\cohen\Desktop\CountriesProject\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\cohen\Desktop\Project\loan-project\server\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\cohen\Desktop\Project\loan-project\server\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\cohen\Desktop\Project\loan-project\server\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\cohen\Desktop\Project\loan-project\server\DAL\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\cohen\Desktop\Project\loan-project\server\DAL\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\cohen\Desktop\Project\loan-project\server\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\cohen\Desktop\Project\loan-project\server\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cohen\Desktop\Project\loan-project\server\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\cohen\Desktop\Project\loan-project\server\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\cohen\Desktop\Project\loan-project\server\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\cohen\Desktop\Project\loan-project\server\DAL\obj\Debug\netcoreapp3.1\DAL.sourcelink.json
+C:\Users\cohen\Desktop\Project\loan-project\server\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.Up2Date
+C:\Users\cohen\Desktop\Project\loan-project\server\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\cohen\Desktop\Project\loan-project\server\DAL\obj\Debug\netcoreapp3.1\DAL.pdb

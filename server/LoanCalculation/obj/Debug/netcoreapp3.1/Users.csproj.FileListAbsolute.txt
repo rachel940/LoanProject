@@ -1,0 +1,100 @@
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Users.exe
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Users.deps.json
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Users.runtimeconfig.json
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Users.runtimeconfig.dev.json
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Users.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Users.pdb
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Users.AssemblyInfoInputs.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Users.AssemblyInfo.cs
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Users.csproj.CoreCompileInputs.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Users.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\staticwebassets\Users.StaticWebAssets.Manifest.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\staticwebassets\Users.StaticWebAssets.xml
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\scopedcss\bundle\Users.styles.css
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Users.RazorTargetAssemblyInfo.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Users.csproj.CopyComplete
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Users.dll
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Users.pdb
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Users.genruntimeconfig.cache
+C:\Users\rachel.c\Desktop\Movies-ServerSide - Copy\Movies\Movies\obj\Debug\netcoreapp3.1\Users.csproj.AssemblyReference.cache
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\Users.StaticWebAssets.xml
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\Users.exe
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\Users.deps.json
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\Users.runtimeconfig.json
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\Users.runtimeconfig.dev.json
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\Users.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\Users.pdb
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\obj\Debug\netcoreapp3.1\Users.csproj.AssemblyReference.cache
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\obj\Debug\netcoreapp3.1\Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\obj\Debug\netcoreapp3.1\Users.AssemblyInfoInputs.cache
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\obj\Debug\netcoreapp3.1\Users.AssemblyInfo.cs
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\obj\Debug\netcoreapp3.1\Users.csproj.CoreCompileInputs.cache
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\obj\Debug\netcoreapp3.1\Users.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\obj\Debug\netcoreapp3.1\Users.RazorTargetAssemblyInfo.cache
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\obj\Debug\netcoreapp3.1\staticwebassets\Users.StaticWebAssets.Manifest.cache
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\obj\Debug\netcoreapp3.1\staticwebassets\Users.StaticWebAssets.Pack.cache
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Users.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Users.props
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Users.props
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Users.props
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\obj\Debug\netcoreapp3.1\Users.csproj.Up2Date
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\obj\Debug\netcoreapp3.1\Users.dll
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\obj\Debug\netcoreapp3.1\Users.pdb
+C:\Users\cohen\Desktop\CountriesProject\User\Movies\obj\Debug\netcoreapp3.1\Users.genruntimeconfig.cache
