@@ -35,8 +35,15 @@ function LoanCalculatorForm() {
   const onSubmit = async (data) => {
     try {
       const response = await calculateLoan(data);
-      setResult(response);
-      setErrorMessage(null);
+      if (response.isSuccess) {
+        setResult(response.responseModel);
+        setErrorMessage(null);
+      }
+      else {
+        setResult(null);
+        setErrorMessage(response.message || 'Failed to calculate loan. Please try again.');
+      }
+
     } catch (error) {
       setErrorMessage('Error calculating loan. Please try again.');
       console.error('Error:', error);
@@ -83,11 +90,16 @@ function LoanCalculatorForm() {
             Calculate
           </Button>
         </form>
+
         {result && (
           <Typography variant="h6" className="result-text">
-            {result}
+            Basic loan interest: {result.basicInterest.toFixed(2)} ₪
+            <br />
+            {result.extraInterest > 0 && (<><span>Extra interest: {result.extraInterest.toFixed(2)} ₪</span><br /></>)}
+            Total amount: {result.totalAmount.toFixed(2)} ₪
           </Typography>
         )}
+
         {errorMessage && (
           <Typography variant="body1" className="error-text">
             {errorMessage}

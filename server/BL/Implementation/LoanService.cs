@@ -5,6 +5,7 @@ using Repository.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text.Json;
 using System.Threading.Tasks;
 
@@ -48,20 +49,23 @@ namespace BL.Implementation
         }
 
         //Calculating total amount of loan
-        public async Task<string> CalculateTotalAmount(LoanRequest loanRequest)
+        public async Task<Response<LoanDetailsResponse>> CalculateTotalAmount(LoanRequest loanRequest)
         {
             try
             {
                 ArgumentNullException.ThrowIfNull(loanRequest);
 
-                var client = await GetClientById(loanRequest.ClientId) ?? throw new Exception("ClientId is not exists");
+                var client = await GetClientById(loanRequest.ClientId);
+                if (client == null)
+                    return new Response<LoanDetailsResponse> { IsSuccess = false, StatusCode = HttpStatusCode.OK, Message = "ClientId is not exists" };
+
                 var strategy = _strategyFactory.CreateStrategy(client.Age);
-                var totalAmount = strategy.CalculateTotalAmount(loanRequest.Amount, loanRequest.PeriodInMonths, _primeInterest);
-                return totalAmount;
+                var calculateResponse = strategy.CalculateTotalAmount(loanRequest.Amount, loanRequest.PeriodInMonths, _primeInterest);
+                return new Response<LoanDetailsResponse> { IsSuccess = true, StatusCode = HttpStatusCode.OK, ResponseModel = calculateResponse, Message = "Calculate total amount was successfully" };
             }
             catch (Exception ex)
             {
-                throw new Exception("Error in LoanService.CalculateTotalAmount", ex);
+                return new Response<LoanDetailsResponse> { IsSuccess = false, StatusCode = HttpStatusCode.BadRequest, Message = ex.Message };
             }
         }
 

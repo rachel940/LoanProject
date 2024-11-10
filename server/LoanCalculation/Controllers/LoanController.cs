@@ -1,6 +1,7 @@
 ﻿using BL.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Models;
+using System.Net;
 using System.Threading.Tasks;
 
 namespace LoanCalculation.Controllers
@@ -17,20 +18,20 @@ namespace LoanCalculation.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<string>> CalculateLoan([FromBody] LoanRequest request)
+        public async Task<ActionResult<LoanDetailsResponse>> CalculateLoan([FromBody] LoanRequest request)
         {
             try
             {
-                string result = await _loanService.CalculateTotalAmount(request);
+                var response = await _loanService.CalculateTotalAmount(request);
 
-                if (!string.IsNullOrWhiteSpace(result))
-                    return Ok(result);
+                if (response.StatusCode == HttpStatusCode.OK)
+                    return Ok(response);
 
-                return BadRequest();
+                return StatusCode((int)response.StatusCode, response);
             }
             catch
             {
-                return StatusCode(500, "An error occurred while processing CalculateLoan.");
+                return StatusCode((int)HttpStatusCode.InternalServerError, "An error occurred while processing calculate loan.");
             }
         }
 

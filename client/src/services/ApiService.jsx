@@ -9,6 +9,7 @@ export const post = async (url, request) => {
             throw new Error(`Server responded with status ${response.status}`);
         }
     } catch (error) {
+        console.log("error:"+error);
         throw error;
     }
 };

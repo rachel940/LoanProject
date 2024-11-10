@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cohen\\Desktop\\Project\\loan-project\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0139BE3B-379D-42EA-A7B4-4EF4FF02A380}|LoanCalculation\\LoanCalculation.csproj|c:\\users\\cohen\\desktop\\project\\loan-project\\server\\loancalculation\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0139BE3B-379D-42EA-A7B4-4EF4FF02A380}|LoanCalculation\\LoanCalculation.csproj|solutionrelative:loancalculation\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B5D7CE-85A6-463F-BC77-29804361F3AD}|Models\\Models.csproj|c:\\users\\cohen\\desktop\\project\\loan-project\\server\\models\\loandetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B5D7CE-85A6-463F-BC77-29804361F3AD}|Models\\Models.csproj|solutionrelative:models\\loandetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F73FDE0-6947-4CC8-8F7C-945236F5C653}|BL\\BL.csproj|c:\\users\\cohen\\desktop\\project\\loan-project\\server\\bl\\implementation\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F73FDE0-6947-4CC8-8F7C-945236F5C653}|BL\\BL.csproj|solutionrelative:bl\\implementation\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F73FDE0-6947-4CC8-8F7C-945236F5C653}|BL\\BL.csproj|c:\\users\\cohen\\desktop\\project\\loan-project\\server\\bl\\implementation\\olderclientintereststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F73FDE0-6947-4CC8-8F7C-945236F5C653}|BL\\BL.csproj|solutionrelative:bl\\implementation\\olderclientintereststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B5D7CE-85A6-463F-BC77-29804361F3AD}|Models\\Models.csproj|c:\\users\\cohen\\desktop\\project\\loan-project\\server\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B5D7CE-85A6-463F-BC77-29804361F3AD}|Models\\Models.csproj|solutionrelative:models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F73FDE0-6947-4CC8-8F7C-945236F5C653}|BL\\BL.csproj|c:\\users\\cohen\\desktop\\project\\loan-project\\server\\bl\\implementation\\youngclientintereststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F73FDE0-6947-4CC8-8F7C-945236F5C653}|BL\\BL.csproj|solutionrelative:bl\\implementation\\youngclientintereststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F73FDE0-6947-4CC8-8F7C-945236F5C653}|BL\\BL.csproj|c:\\users\\cohen\\desktop\\project\\loan-project\\server\\bl\\implementation\\middleagedclientintereststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F73FDE0-6947-4CC8-8F7C-945236F5C653}|BL\\BL.csproj|solutionrelative:bl\\implementation\\middleagedclientintereststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YoungClientInterestStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\cohen\\Desktop\\Project\\loan-project\\server\\BL\\Implementation\\YoungClientInterestStrategy.cs",
+              "RelativeDocumentMoniker": "BL\\Implementation\\YoungClientInterestStrategy.cs",
+              "ToolTip": "C:\\Users\\cohen\\Desktop\\Project\\loan-project\\server\\BL\\Implementation\\YoungClientInterestStrategy.cs",
+              "RelativeToolTip": "BL\\Implementation\\YoungClientInterestStrategy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:38:20.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MiddleAgedClientInterestStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\cohen\\Desktop\\Project\\loan-project\\server\\BL\\Implementation\\MiddleAgedClientInterestStrategy.cs",
+              "RelativeDocumentMoniker": "BL\\Implementation\\MiddleAgedClientInterestStrategy.cs",
+              "ToolTip": "C:\\Users\\cohen\\Desktop\\Project\\loan-project\\server\\BL\\Implementation\\MiddleAgedClientInterestStrategy.cs",
+              "RelativeToolTip": "BL\\Implementation\\MiddleAgedClientInterestStrategy.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:37:54.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OlderClientInterestStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\cohen\\Desktop\\Project\\loan-project\\server\\BL\\Implementation\\OlderClientInterestStrategy.cs",
+              "RelativeDocumentMoniker": "BL\\Implementation\\OlderClientInterestStrategy.cs",
+              "ToolTip": "C:\\Users\\cohen\\Desktop\\Project\\loan-project\\server\\BL\\Implementation\\OlderClientInterestStrategy.cs",
+              "RelativeToolTip": "BL\\Implementation\\OlderClientInterestStrategy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:27:46.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "C:\\Users\\cohen\\Desktop\\Project\\loan-project\\server\\BL\\Implementation\\LoanService.cs",
+              "RelativeDocumentMoniker": "BL\\Implementation\\LoanService.cs",
+              "ToolTip": "C:\\Users\\cohen\\Desktop\\Project\\loan-project\\server\\BL\\Implementation\\LoanService.cs",
+              "RelativeToolTip": "BL\\Implementation\\LoanService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:00:51.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Users\\cohen\\Desktop\\Project\\loan-project\\server\\LoanCalculation\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "LoanCalculation\\Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Users\\cohen\\Desktop\\Project\\loan-project\\server\\LoanCalculation\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "LoanCalculation\\Controllers\\LoanController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:14:10.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanDetailsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\cohen\\Desktop\\Project\\loan-project\\server\\Models\\LoanDetailsResponse.cs",
+              "RelativeDocumentMoniker": "Models\\LoanDetailsResponse.cs",
+              "ToolTip": "C:\\Users\\cohen\\Desktop\\Project\\loan-project\\server\\Models\\LoanDetailsResponse.cs",
+              "RelativeToolTip": "Models\\LoanDetailsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:06:55.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\cohen\\Desktop\\Project\\loan-project\\server\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "Models\\Response.cs",
+              "ToolTip": "C:\\Users\\cohen\\Desktop\\Project\\loan-project\\server\\Models\\Response.cs",
+              "RelativeToolTip": "Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:03:30.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

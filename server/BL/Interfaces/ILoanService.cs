@@ -6,7 +6,7 @@ namespace BL.Interfaces
     public interface ILoanService
     {
         Task<Client> GetClientById(string clientId);
-        Task<string> CalculateTotalAmount(LoanRequest loanRequest);
+        Task<Response<LoanDetailsResponse>> CalculateTotalAmount(LoanRequest loanRequest);
         Task CreateClient(Client client);
     }
 }
